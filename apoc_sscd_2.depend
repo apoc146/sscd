@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518986609 source:f:\codeblocks_projects\apoc_sscd_2\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
